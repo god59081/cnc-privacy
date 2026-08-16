@@ -16,7 +16,7 @@ CNC Tool Setup Calculator ("the app") is an offline, on-device calculator for ma
 
 ## Information you enter — stored only on your device
 
-The machines, Spindle Fixture values and history, settings, and calculation history you enter are stored **only in the app's local database on your device**. This information never leaves your device, is not sent to us or to any third party, and is not accessible to us. Deleting the app removes this data.
+The machines, Surrogate values and history, settings, and calculation history you enter are stored **only in the app's local database on your device**. This information never leaves your device, is not sent to us or to any third party, and is not accessible to us. Deleting the app removes this data.
 
 ## No network, analytics, or tracking
 
@@ -36,4 +36,4 @@ If a future version changes how data is handled (for example, adding a network-c
 
 ## Contact
 
-Questions about this policy: god59081@gmail.com
+Questions about this policy: vp588074@gmail.com
